@@ -1,8 +1,8 @@
-name: run linter 
+name: run-linter 
 on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       -  name: lint
-         run: make lint
+         run: npx eslint ..

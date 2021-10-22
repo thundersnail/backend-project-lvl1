@@ -1,7 +1,7 @@
 name: run linter 
 on: [push]
 jobs:
-  run linter:
+  run-linter:
     runs-on: ubuntu-latest
     steps:
       -  name: lint

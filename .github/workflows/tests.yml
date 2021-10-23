@@ -1,8 +1,0 @@
-name: run-linter 
-on: [push]
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      -  name: lint
-         run: npx eslint '**/*.js'

@@ -6,3 +6,6 @@
 
 ### Github Actions badge:
 [![Makefile CI](https://github.com/thundersnail/backend-project-lvl1/actions/workflows/makefile.yml/badge.svg)](https://github.com/thundersnail/backend-project-lvl1/actions/workflows/makefile.yml)
+
+### Asciinema:
+https://asciinema.org/a/B2UxXSzIOEE3f3lMWeZYbMcpP
